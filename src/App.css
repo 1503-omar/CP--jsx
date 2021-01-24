@@ -1,0 +1,13 @@
+#titlered{
+  color: azure;
+}
+#photo{
+  border-radius: 50%;
+
+  width: 60px;
+  height: 60px;
+}
+body{
+  background: url "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9c7eAsoEo1RHX221HqMQm2n015LbGVD6Jw&usqp=CAU";
+  
+}
